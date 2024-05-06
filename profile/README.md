@@ -1,5 +1,13 @@
 ## MauaSat
 
+We are a dedicated team focused on designing and creating a __CubeSat__. Our mission is to utilize the LoRaWAN protocol for low-power, long-range communication and radio frequency image transmission
+
+
+
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
